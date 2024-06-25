@@ -1,0 +1,9 @@
+.station-img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.station-card {
+    margin-bottom: 20px;
+}
